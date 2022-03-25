@@ -21,6 +21,5 @@ public class TesteFiguras {
         Circulo circulo = new Circulo(3 , "Laranja");
         System.out.println(circulo);
 
-
     }
 }
